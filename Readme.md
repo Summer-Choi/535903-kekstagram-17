@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алла Бурмистрова](https://up.htmlacademy.ru/javascript/17/user/535903).
-* Наставник: `Неизвестно`.
+* Наставник: [Арсений Ильяшов](https://up.htmlacademy.ru/javascript/17/user/40943).
 
 ---
 
